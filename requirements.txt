@@ -1,0 +1,6 @@
+langchain
+langserve[all]
+langchain-cli
+langserve
+python-decouple
+langchain_openai
